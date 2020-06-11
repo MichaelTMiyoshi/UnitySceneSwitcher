@@ -1,5 +1,5 @@
 # UnitySceneSwitcher
-Unity project that shows how to switch from one scene to another with a button.
+Unity project that shows how to switch from one scene to another with a button.  (School project)
 
 Simple project to show the results of following the [tutorial](https://www.youtube.com/watch?v=FSt5xrFHaFU).
 
